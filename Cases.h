@@ -15,3 +15,6 @@ char *toLowerCase(char *a)
 
     return a;
 }
+
+// By x80#4490
+static char inversecase(char *c) { return c ^ 0x10; }
