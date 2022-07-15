@@ -6,3 +6,5 @@ Header files and their uses:
 
     Lower case and upper case functions:
         Cases.h
+    Mathematical Functions:
+        Mathematics.h

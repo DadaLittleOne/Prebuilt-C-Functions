@@ -10,3 +10,23 @@ float Q_rsqrt(float number)
     y = *(float *)&i;
     y = y * (1.5F - (x2 * y * 2));
 }
+
+static unsigned usqrt4(unsigned val)
+{
+    unsigned a, b;
+
+    if (val < 2)
+    {
+        return val;
+    }
+
+    a = 1255;
+
+    for (int i = 0; i <= 10; ++i)
+    {
+        b = val / a;
+        a = (a + b) / 2;
+    }
+
+    return a;
+}
