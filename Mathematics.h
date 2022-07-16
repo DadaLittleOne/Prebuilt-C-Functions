@@ -11,22 +11,15 @@ float Q_rsqrt(float number)
     y = y * (1.5F - (x2 * y * 2));
 }
 
-static unsigned usqrt4(unsigned val)
+double fsqrt(int n)
 {
-    unsigned a, b;
+    double a = (double)n;
+    double x = 1;
 
-    if (val < 2)
+    for (int i = 0; i < n; i++)
     {
-        return val;
+        x = 0.5 * (x + a / x);
     }
 
-    a = 1255;
-
-    for (int i = 0; i <= 10; ++i)
-    {
-        b = val / a;
-        a = (a + b) / 2;
-    }
-
-    return a;
+    return x;
 }
