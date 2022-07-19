@@ -5,16 +5,17 @@
     Prebuilt C Functions to make writing C less of a pain made by DadaLittleOne AKA Raiyaxi Ziaoi
 </h2>
 <hr>
+</div>
 
 #### Header files and their uses:
 
 <ul>
-    <li>
+    <div align="center"><li>
         Lower case and upper case functions:
-    </li>
+    </li></div>
     <ul><li>Cases.h</li></ul>
     <li>
         Mathematical Functions:
     </li>
     <ul><li>Mathematics.h</li></ul>
-    <ul>
+</ul>
