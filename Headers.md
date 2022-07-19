@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>
-    Prebuilt C Functions to make writing C less of a pain made by DadaLittleOne AKA Raiyaxi Ziaoi
+    Prebuilt C Functions to make writing C less of a pain <br/><br/>Made by Raiyaxi Ziaoi
 </h2>
 <hr>
 </div>
