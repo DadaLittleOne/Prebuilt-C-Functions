@@ -15,11 +15,11 @@
 
 <ul>
     <li>
-        Lower case and upper case functions:
+        Cases.h
     </li>
-    <ul><li>Cases.h</li></ul>
+    <ul><li>Lower case and upper case functions:</li></ul>
     <li>
-        Mathematical Functions:
+        Mathematics.h
     </li>
-    <ul><li>Mathematics.h</li></ul>
+    <ul><li>Mathematical Functions</li></ul>
 </ul>
