@@ -7,12 +7,16 @@
 <hr>
 </div>
 
+<div align="center">
+
 #### Header files and their uses:
 
+</div>
+
 <ul>
-    <div align="center"><li>
+    <li>
         Lower case and upper case functions:
-    </li></div>
+    </li>
     <ul><li>Cases.h</li></ul>
     <li>
         Mathematical Functions:
