@@ -8,7 +8,7 @@
 <hr>
 <br/>
 <p><i>
-    I am a beginner to C so there may be some performance issues. If there are, feel free to make a pull request.
+    I am a beginner to C so there may be some issues. If there are, feel free to make a pull request.
 </p></i>
 <h4>
     Please include the specfic header file that you require in your project, I have included a list of all the different header files and their uses in a seperate file labelled "Headers.md".
