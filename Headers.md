@@ -4,7 +4,6 @@
 <h2>
     Prebuilt C Functions to make writing C less of a pain <br/><br/>Made by Raiyaxi Ziaoi
 </h2>
-<hr>
 </div>
 
 <div align="center">
